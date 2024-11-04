@@ -1,4 +1,3 @@
-version: '3.8'
 services:
     spotify-readme:
         env_file:
